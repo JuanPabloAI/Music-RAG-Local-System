@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Data
+data/
+vector_db/
+*.lock
+
+# Notebooks
+notebooks/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.py[cod]
